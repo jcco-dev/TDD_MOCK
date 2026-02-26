@@ -10,7 +10,7 @@ namespace Exercice3_TDD.Core
 
         public RechercheVille(List<string> villes)
         {
-            _villes = villes ?? throw new ArgumentNullException(nameof(villes));
+            _villes = villes; //?? throw new ArgumentNullException(nameof(villes));
         }
 
         public List<string> Rechercher(string mot)
