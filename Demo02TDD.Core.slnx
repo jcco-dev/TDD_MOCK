@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Demo02TDD.Core/Demo02TDD.Core.csproj" />
+  <Project Path="Demo02TDD.Tests/Demo02TDD.Tests.csproj" />
+  <Project Path="Exercice3_TDD.Core/Exercice3_TDD.Core.csproj" />
+  <Project Path="Exercice_TDD.Tests/Exercice3_TDD.Tests.csproj" />
+</Solution>
